@@ -9,6 +9,7 @@ The datasets is for scene text detection and recognition.
 
 The code and larger datasets will be released later.
 
+# Image Samples
 
 
 # Citation
