@@ -1,7 +1,7 @@
 # Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes
 Sample datasets described in the paper https://arxiv.org/abs/1807.03021
 
-1K: https://drive.google.com/open?id=1KUBOlxirJZyLCgKrUKrWWo7zkfSUTJGE
+1K: https://www.dropbox.com/s/5hirb8eal44ek4d/1K.tar.gz?dl=0 or https://drive.google.com/open?id=1KUBOlxirJZyLCgKrUKrWWo7zkfSUTJGE
 
 10K:
 
