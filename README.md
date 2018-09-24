@@ -3,7 +3,7 @@ Sample datasets described in the paper https://arxiv.org/abs/1807.03021
 
 1K: https://www.dropbox.com/s/5hirb8eal44ek4d/1K.tar.gz?dl=0
 
-10K:
+10K: https://www.dropbox.com/s/fu49xa4vqxhtrwm/10K.tar.gz?dl=0
 
 The datasets is for scene text detection and recognition.
 
