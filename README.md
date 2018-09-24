@@ -10,7 +10,7 @@ The datasets is for scene text detection and recognition.
 The code and larger datasets will be released later.
 
 # Image Samples
-![image]https://github.com/fnzhan/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes/blob/master/samples.png
+![image](https://github.com/fnzhan/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes/blob/master/samples.png)
 
 # Citation
 If you find this project helpful for your research, please cite the following paper:
