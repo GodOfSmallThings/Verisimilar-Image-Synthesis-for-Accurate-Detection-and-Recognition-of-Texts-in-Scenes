@@ -1,13 +1,15 @@
 # Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes
-Sample datasets of the paper https://arxiv.org/abs/1807.03021
+Sample datasets described in the paper https://arxiv.org/abs/1807.03021
+
+1K:
+
+10K:
 
 The datasets is for scene text detection and recognition.
 
 The code and larger datasets will be released later.
 
-1K:
 
-10K:
 
 # Citation
 If you find this project helpful for your research, please cite the following paper:
