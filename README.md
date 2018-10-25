@@ -17,7 +17,6 @@ If you find this project helpful for your research, please cite the following pa
   author  = {Fangneng Zhan, Shijian Lu and Chuhui Xue},
   title   = {Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes},
   journal = {ECCV},
-  volume  = {11212},
   pages   = {257-273},
   year    = {2018}
   }
